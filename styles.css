@@ -1,0 +1,13 @@
+body {
+  background-color: #04295b;
+}
+#block {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+#text {
+  color: white;
+  font-size: 100px;
+  font-family: sans-serif;
+}
